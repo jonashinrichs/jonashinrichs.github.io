@@ -16,7 +16,7 @@ resume_contact_email:           "mail@davidhinrichs.de"
 #resume_contact_telephone:       "555-7334"
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 #resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: <p>I work hard on hard problems worth solving. I enjoy writing, hiking and chasing the answers to non-trivial questions. At the present I am doing a master's thesis in <a href="http://rocs.hu-berlin.de" > complex systems</a>. Currently a Junior Data Scientist at <a href="http://idalab.de" >idalab</a>. Download my <a href="https://github.com/davhin/davhin.github.io/raw/master/resume/resume.pdf" >resume</a></p>
+resume_header_intro: <p>I work hard on hard problems worth solving. I enjoy writing, hiking and chasing the answers to non-trivial questions. At the present I am doing a master's thesis in <a href="https://en.wikipedia.org/wiki/Complex_system" > complex systems</a>. Currently a Junior Data Scientist at <a href="http://idalab.de" >idalab</a>. Download my <a href="https://github.com/davhin/davhin.github.io/raw/master/resume/resume.pdf" >resume</a></p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
