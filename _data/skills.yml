@@ -1,9 +1,0 @@
-# Skills
-- skill: Science
-  description: Every model we build is wrong. But even wrong models may be useful. Keep digging.
-
-#- skill: Maths // Stats // Physics
-#  description: (Inferential / Bayesian / Nonparametric) Statistics
-
-- skill: Tech
-  description: Python, R, SQL; Docker, AWS
